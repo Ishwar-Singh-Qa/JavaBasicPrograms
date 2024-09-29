@@ -8,7 +8,7 @@ public class For_Loop_Incremental {
 	{
 		for (int i=1; i<=10; i++)              //RESULT WILL BE SAME IF WRITE ++i also (almost in every case of For loop)
 		{
-			System.out.println("Hey, How have you been?");
+			System.out.println("Hey, How have you been everyone?");
 		}
 	}
 
